@@ -12,7 +12,7 @@ export class TaskDialogComponent {
   constructor(
     public dialogRef: MatDialogRef<TaskDialogComponent>,
     @Inject(MAT_DIALOG_DATA) public data: TaskDialogData
-  ) {debugger}
+  ) {}
 
   private backupTask: Partial<Task> = { ...this.data.task };
 
