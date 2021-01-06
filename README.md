@@ -1,5 +1,3 @@
-![example branch parameter](https://github.com/actions/hello-world/workflows/Greet%20Everyone/badge.svg?branch=master)
-
 # Demo
 https://kanbanfire-12f4e.web.app/
 
