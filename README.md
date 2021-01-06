@@ -1,5 +1,3 @@
-[![YourActionName Actions Status](https://github.com/sxhoangha/kanban-fire/workflows/Build+and+Deploy+to+Firebase/badge.svg)](https://github.com/sxhoangha/kanban-fire/actions)
-
 # Demo
 https://kanbanfire-12f4e.web.app/
 
